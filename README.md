@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 
 1. Clone this repo down to your local machine.
 2. `cd` to the repo.
