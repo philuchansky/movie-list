@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Toy Story",
+    "genre": "animated",
+    "notes": "Perfect for the kids while we're cooking.",
+    "watched": false,
+    "addedDate": "Apr 28, 2021"
+  },
+  {
+    "title": "Mars Attacks",
+    "genre": "comedy",
+    "notes": "Very violent, don't watch around the kids.",
+    "watched": true,
+    "addedDate": "Mar 21, 2020"
+  },
+  {
+    "title": "Tron: Legacy",
+    "genre": "sci-fi",
+    "notes": "Daft Punk apparently did the soundtrack.",
+    "watched": false,
+    "addedDate": "Jan 10, 2022"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "action": {"value": "action", "label": "Action", "color": "#335c67"},
+  "animated": {"value": "animated", "label": "Animated", "color": "#63B0CD"},
+  "comedy": {"value": "comedy", "label": "Comedy", "color": "#e09f3e"},
+  "drama": {"value": "drama", "label": "Drama", "color": "#9e2a2b"},
+  "fantasy": {"value": "fantasy", "label": "Fantasy", "color": "#F1A208"},
+  "horror": {"value": "horror", "label": "Horror", "color": "#942911"},
+  "mystery": {"value": "mystery", "label": "Mystery", "color": "#06A77D"},
+  "romance": {"value": "romance", "label": "Romance", "color": "#950952"},
+  "sci-fi": {"value": "sci-fi", "label": "Science Fiction", "color": "#38369A"},
+  "thriller": {"value": "thriller", "label": "Thriller", "color": "#d05353"}
+}
